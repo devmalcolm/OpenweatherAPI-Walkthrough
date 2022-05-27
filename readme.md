@@ -30,7 +30,7 @@
 </div>
 <br>
 
-Here is an open-source project highlighting the use of the openweather API (URL). This project is mainly to understand its use (API) as well as the possibilities offered by a free-API.
+Here is an open-source project highlighting the use of the openweather API (https://openweathermap.org/api). This project is mainly to understand its use (API) as well as the possibilities offered by a free-API.
 
 ## How It Works ?
 
